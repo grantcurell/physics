@@ -1,0 +1,9 @@
+The force of friction comes from the surface characteristics of the materials that come into contact. How can physics predict those characteristics theoretically? It doesn’t. Detailed knowledge of the surfaces that come into contact is something people have to measure themselves (or they can check a table of information after someone else has done all the work). What you measure is how the normal force (a force perpendicular to the surface an object is sliding on) relates to the friction force. It turns out that to a good degree of accuracy, the two forces are proportional, and you can use a constant, μ, to relate the two:
+
+Holzner, Steven. Physics I For Dummies (For Dummies (Math & Science)) (p. 105). Wiley. Kindle Edition.
+
+F_friction = (coefficient of friction) * F_normal
+
+This equation tells you that when you have the normal force, FN, all you have to do is multiply it by a constant to get the friction force, FF. This constant, μ, is called the coefficient of friction, and it’s something you measure for contact between two particular surfaces. (Note: Coefficients are simply numbers; they don’t have units.)
+
+Holzner, Steven. Physics I For Dummies (For Dummies (Math & Science)) (p. 105). Wiley. Kindle Edition. 

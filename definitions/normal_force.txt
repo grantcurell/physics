@@ -1,0 +1,3 @@
+As you can see in Figure 6-3, the force with which the gold ingot presses against the ground in this situation is just its weight, or mg. The ground presses back with the same force in accordance with Newton’s third law. The force that pushes up against the ingot, perpendicular to the surface, is called the normal force, and its symbol is N. The normal force isn’t necessarily equal to the force due to gravity; it’s the force perpendicular to the surface an object is sliding on. In other words, the normal force is the force pushing the two surfaces together, and the stronger the normal force, the stronger the force due to friction.
+
+Holzner, Steven. Physics I For Dummies (For Dummies (Math & Science)) (pp. 104-105). Wiley. Kindle Edition.
