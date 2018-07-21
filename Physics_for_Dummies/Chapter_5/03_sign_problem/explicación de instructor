@@ -1,0 +1,38 @@
+Revise el problema, mira en este tipo de problemas se deben seguir tres pasos:
+paso 1.
+Se realiza un diagrama de cuerpo aislado, es decir, se ubican todas las fuerzas actuando sobre el objeto,
+en este caso existen tres fuerzas F_1, F_2 y mg (fijante que en este caso el problema es bi-dimensional, es decir,
+las fuerzas se hallan en el plano xy).
+La fuerza mg actÃºa a lo largo de la vertical (eje y) hacia abajo, la fuerza F_2 actÃºa a lo largo del eje x en el sentido positivo,
+y la fuerza F_1 actÃºa a lo largo de una linea que forma un angulo de 30 grados con la horizontal (eje x), esto implica que la
+fuerza F_1, posee dos componentes F_1x= F_1 cos 30 y F_y= F_1 sin 30, donde F_1 es el modulo de la fuerza F_1.
+Un punto muy importante es que F_1x a`punta a la izquierda del eje x (sentido negativo) y F_1y apunta hacia arriba a lo largo
+del eje y.
+Paso 2.
+Se debe aplicar la segunda ley de Newton
+Sum F_x=m a_x y Sum F_y = m a_y.
+como el cuerpo esta en equilibrio (estÃ¡tico) a_x=a_y=0,
+entonces,
+Sum F_x=0 y Sum F_y=0, aqui Sum significa sumatoria sobre todas las fuerzas a lo largo del eje x o y respectivamente,
+Paso 3,
+Se establecen y resuelven las ecuaciones,
+Sum F_x=0 implica
+F_2 - F_1 cos 30 =0,
+es decir
+F_2= F_1 cos 30
+por otra parte
+Sum F_y=0,
+implica
+F_1 sin 30 -mg =0,
+es decir,
+F_1 sin 30 =mg,
+F_1 = mg/sin 30,
+entonces si mg =8 N, la magnitud de la fuerza F_1 sera
+F_1= 8 N/(1/2)= 16 N,
+y la fuerza F_2 sera
+
+F_2= F_1 cos 30=16 cos 30= 16 sqrt(3)/2 = 8 sqrt(3) N,
+en otras palabras si el cuerpo de peso mg=8 N esta en equilibrio,
+la magnitudes de las fuerzas F_1 y F_2 son
+F_1= 16 N
+F_2=8 sqrt(3) N,
